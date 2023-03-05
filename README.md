@@ -1,2 +1,2 @@
 # Arduino-course
-this is mty fisrt   Arduino course in IEEE 
+this is mty fisrt   Arduino course 
