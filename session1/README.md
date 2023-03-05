@@ -2,4 +2,7 @@
 between illumination of each color time of 2.5 seconds
 all by one RGB led
 2- you don't need main.h .it seems that the code you provided does not require a separate main.h file. The code consists of two functions, setup() and loop(), which are defined in the same .ino file that you would upload to your Arduino board. 
-
+3- use this command to set library" sudo apt-get install wiringpi" in your terminal.
+use "gcc -o main main.c -lwiringPi
+sudo ./main
+" to compile your code .
